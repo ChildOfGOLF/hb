@@ -1,0 +1,64 @@
+html {
+    background: url("img/backk.jpg") no-repeat #000000;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+nav {
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: black ;
+    border-radius: 10px;
+    margin: 20px 350px;
+}
+
+#demo-nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+  }
+  
+  #demo-nav li {
+    display: inline;
+  }
+  
+  #demo-nav a {
+    color:#fff;
+    padding: 0.75em;
+    text-decoration: none;
+    line-height: 2.5;
+  }
+  
+  #demo-nav a:hover {
+    text-decoration: underline;
+  }
+
+h1 {
+    font-size: 300;
+    color: rgb(255, 174, 0);
+    text-align: center;
+    border: 2px solid gray;
+    background-color: black ;
+    border-radius: 10px;
+    margin: 50px 400px;
+    padding: 10px;
+}
+
+img {
+    width: 600px;
+    margin: 10px;
+    
+    border: 5px solid white;
+    border-radius: 10px;
+
+}
+
+footer {
+    padding-top: 100px;
+    margin: -50px;
+    text-align: center;
+    color: white;
+
+}
